@@ -1,6 +1,7 @@
 # **Probability of injury during sport activity**
  ![Foto](Foto.jpeg)
- All types of `sports` have a potential for injury, whether from the trauma of contact with other players or from overuse or misuse of a body part. Almost one-third of all injuries incurred in childhood are sports-related injuries. By far, the most common injuries are sprains and strains.
+
+All types of `sports` have a potential for injury, whether from the trauma of contact with other players or from overuse or misuse of a body part. Almost one-third of all injuries incurred in childhood are sports-related injuries. By far, the most common injuries are sprains and strains.
 
 ## **The goal of this project:** 
 
